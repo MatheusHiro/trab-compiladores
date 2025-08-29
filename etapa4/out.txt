@@ -1,0 +1,19 @@
+inte a = 80;
+cara b = 5;
+real c = '1';
+inte x[5];
+inte a = 5;
+inte v[6];
+inte fun(inte a){
+a = 0;
+v[5.5] = 8.5;
+entaum {
+{
+escreva "Percorrendo o vetor ao contrario fica assim: " v[a] "\n";
+escreva "c vale " c "\n";
+a = 1;
+}
+enquanto(a >= 0);
+}
+se(b > 0);
+}

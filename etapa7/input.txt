@@ -1,0 +1,40 @@
+// UFRGS - Compiladores - Marcelo Johann - 2022/2
+
+inte c=6;
+cara d=100;
+inte a.5='a'
+inte i=1;
+inte v[10] 0 1 2 3 4 5 6 7 8 9
+//inte matrix[100]; 
+real f=2.5;
+inte a = 1;
+inte b = 2;
+
+///
+Este eh um comentario 
+de multiplas 
+linhas
+\\\
+
+inte main ()
+  {
+    escreva "Digite um numero: \n";
+    a = entrada;
+    c = fnc(a;
+    entaum{
+        {
+          escreva "Percorrendo o vetor ao contrario fica assim: " v[a "\n";
+          escreva "c vale " c "\n";
+          a = a - 1;
+        }enquanto(==);
+    } se();
+
+    escreva "\nO vetor fica " v[0] "\n";
+  }
+  
+inte fnc(inte a){
+  escreva "X vale: " a "\n";
+  escreva "Vou retornar o valor do contador \n";
+  retorne 4+5;
+
+

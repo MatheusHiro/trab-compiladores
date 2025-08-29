@@ -1,0 +1,60 @@
+// UFRGS - Compiladores - Marcelo Johann - 2022/2
+
+cara c='x';
+cara d=100;
+inte a.5='A';
+inte i=1;
+inte v[10] 'a' 0 0 0 0 0 0 0 0 0;
+inte matrix[100]; 
+real f=2.5;
+
+///
+Este eh um comentario 
+de multiplas 
+linhas
+\\\
+
+inte main ()
+  {
+  a.5 = 0;
+  a = a - i;
+  a = 5;
+  v[a] = 55;
+  //escreva v[5];
+  //escreva a;
+  i = 2;
+
+  escreva "Digite um numero: \n";
+  a = entrada;
+  escreva "Digite mais um numero: \n";
+
+    {
+    i = incn(i 1);
+    a = incn(a a);
+    } enquanto (i<10);
+
+  escreva "Incrementado algumas vezes a fica " (2+x)a "\n";
+
+  entaum,
+    {
+    a = a + 1;
+    escreva "A era=15\n";
+    } se (a==15); 
+    
+  entaum,
+    {
+    escreva "Nao tem como isso...\n"
+    }
+  senaum,
+    escreva "OK!\n" se (i==100); 
+  {{}}
+  }
+
+inte incn (inte x, inte n )
+  {
+  retorne x + n
+  }
+
+// fim de arquivo
+  
+

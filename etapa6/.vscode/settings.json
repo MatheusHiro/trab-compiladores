@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "hash.h": "c",
+        "tacs.h": "c"
+    }
+}
